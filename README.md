@@ -9,7 +9,8 @@ for concurrent connection attempts.
 
 ## How to run
 1. Download `NetworkPortScanner.jar` from this repo
-2. Run:
+2. Run: java -jar NetworkPortScanner.jar
+3. Enter the host/IP and port range when prompted.
 
 ## What I learned
 - Java networking with `Socket` and `InetSocketAddress`
