@@ -9,7 +9,7 @@ for concurrent connection attempts.
 
 ## How to run
 1. Download `NetworkPortScanner.jar` from this repo
-2. Run: java -jar NetworkPortScanner.jar
+2. Run: `java -jar NetworkPortScanner.jar`
 3. Enter the host/IP and port range when prompted.
 
 ## What I learned
